@@ -187,10 +187,6 @@ All gadget endpoints require authentication.
 
    Confirmation message with a randomly generated self-destruct confirmation code.
 
-## Testing with Postman
-
-Import the provided Postman collection (IMF-Gadget-API.postman_collection.json) to test all endpoints easily. Make sure to login first and set the Authorization header for the gadget routes.
-
 ## License
 
 This project is licensed under the MIT License.

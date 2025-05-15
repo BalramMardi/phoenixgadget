@@ -60,6 +60,12 @@ JWT_SECRET = your_jwt_secret_key;
 
 **_note_** - For more details on how the api works, please go through this link.
 
+## Base URL
+
+```bash
+https://phoenixgadget.onrender.com/
+```
+
 ## Authentication (Register & Login)
 
 1. ### Register a new user
